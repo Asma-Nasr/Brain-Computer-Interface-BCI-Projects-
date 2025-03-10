@@ -1,1 +1,1 @@
-# Brain-Computer-Interface-BCI-Projects-
+# Brain Computer Interface BCI Projects
